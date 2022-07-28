@@ -9,6 +9,8 @@ X-component Velocity in the XY-plane
 
 [Imgur](https://i.imgur.com/aoUy1r8.png)
 
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/aoUy1r8" data-context="false" ><a href="//imgur.com/a/aoUy1r8"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 X-component Velocity in the YZ-plane
 
 [Imgur](https://i.imgur.com/oLpe8Ty.png)
